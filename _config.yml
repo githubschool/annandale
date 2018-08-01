@@ -1,0 +1,7 @@
+title: Our favorite finds
+logo: https://octodex.github.com/images/hula_loop_octodex03.gif
+description: All the resources you'll need to Git and GitHub right.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+show_nav: true
