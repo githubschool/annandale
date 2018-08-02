@@ -4,4 +4,6 @@ description: All the resources you'll need to Git and GitHub right.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-show_nav: true
+show_nav: false
+plugins: 
+  - jemoji
