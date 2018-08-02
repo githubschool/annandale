@@ -4,7 +4,7 @@ description: All the resources you'll need to Git and GitHub right.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-show_nav: false
+show_nav: true
 plugins: 
   - jemoji
 baseurl: "/answer-this"
