@@ -7,3 +7,4 @@ theme: jekyll-theme-minimal
 show_nav: false
 plugins: 
   - jemoji
+baseurl: "/answer-this"
