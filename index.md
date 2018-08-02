@@ -8,7 +8,7 @@ Welcome to our resource page. Common questions coming :soon:.
     {% for page in site.pages %}
     {% if page.url contains '/faqs/' %}
         <li>
-            <a href="{{ page.url }}">{{ page.title }}</a>
+            <a href="{{ site.baseurl }}/{{ page.url }}">{{ page.title }}</a>
         </li>
     {% endif %}
     {% endfor %}
