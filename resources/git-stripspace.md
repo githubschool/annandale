@@ -1,8 +1,9 @@
 ## `git stripspace`
 
-_[`git stripspace` documentation on git-scm.com](https://git-scm.com/docs/git-stripspace)_
+- _[`git stripspace` documentation on git-scm.com](https://git-scm.com/docs/git-stripspace)_
+- [Rubiquity: additional resource with examples](http://rubiquity.com/2014/02/12/avoid-whitespace-shame-git-stripspace.html)
 
-"Remove unnecessary whitespace". This can also be used with a few flags to remove all comments. 
+"Remove unnecessary whitespace". This can also be used with a few flags to remove all comments. This will only print out the result in the log, it will not actually edit the file. 
 
 With no arguments, this will:
 
@@ -12,6 +13,8 @@ With no arguments, this will:
 - add a missing \n to the last line if necessary.
 
 In the case where the input consists entirely of whitespace characters, no output will be produced.
+
+You can specify a file with `git stripspace < FILENAME`. 
 
 #### Examples 
 
