@@ -5,7 +5,8 @@
 ## Example Use
 
 ![img](example-chk-ig.png)
-_Image of `check-ignore` being used
+
+_Image of `check-ignore` being used_
 
 ## Background Information
 
