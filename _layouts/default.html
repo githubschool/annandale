@@ -39,9 +39,13 @@
         {% endif %}
 
         <ul class="nav">
-        <li>
-        <a href="resources/docs.html">Whaddup Docs :carrot:</a>
-        </li>
+        <!-- Enter a link to your resource here -->
+        {% for page in site.pages %}
+          {% if page.url contains '/resources/' %}
+          <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+        <!-- End links to resource bar -->
         </ul>
 
       </header>
