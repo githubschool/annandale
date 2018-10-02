@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Documentation
+title: Whaddup Doc :carrot:
 ---
 - [git scm](https://git-scm.com/docs)
