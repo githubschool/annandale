@@ -40,14 +40,11 @@
 
         <ul class="nav">
         <!-- Enter a link to your resource here -->
-       <ul class="nav">
-       <!-- Enter a link to your resource here -->
-       <li>
-           <a href="resources/myresource.html">Resource title</a>
-       </li>
-       <!-- End links to resource bar -->
-       </ul>
-
+        {% for page in site.pages %}
+          {% if page.url contains '/resources/' %}
+          <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+          {% endif %}
+        {% endfor %}
         <!-- End links to resource bar -->
         </ul>
 
