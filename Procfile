@@ -1,1 +1,1 @@
-web:	bundle exec jekyll serve
+web: bundle exec puma -C config/puma.rb
