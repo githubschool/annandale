@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: October 1-5, 2018
-- Facilitator: @hectorsector
+- Facilitator: @hectorsector or someone
 
 ## Talk to Us!!
 
