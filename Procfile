@@ -1,1 +1,1 @@
-web:	jekyll serve -P 
+web:	bundle exec jekyll serve
