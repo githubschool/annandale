@@ -1,5 +1,7 @@
 # GitHub for Developers
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2eb8b14e3a2b494787107cfce9cee9a7)](https://app.codacy.com/app/beardofedu/annandale?utm_source=github.com&utm_medium=referral&utm_content=githubschool/annandale&utm_campaign=Badge_Grade_Settings)
+
 - Class Date: October 1-5, 2018
 - Facilitator: @hectorsector
 
