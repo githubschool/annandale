@@ -11,7 +11,7 @@ If you have a question, or need assistance during class, **please create an issu
 
 Please take a moment to complete the class survey at: https://goo.gl/NRM3fT.
 
-## Scripts for Adding Files
+## Scripts for Adding Files :tada:
 
 - **Bash:** `for d in {1..6}; do touch file$d.md; git add file$d.md; git commit -m "adding file $d"; done`
 - **PowerShell:** `for ($d=1; $d -le 6;$d++) { touch file$d.md; git add file$d.md; git commit -m "adding file$d.md";}`
